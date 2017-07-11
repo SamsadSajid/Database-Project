@@ -9,3 +9,8 @@ Result of Language.py:
 Result of Location.py:
 
 ![tweets_by_places](https://user-images.githubusercontent.com/19304394/27368720-efe61bfe-5675-11e7-8094-9d124b7824c0.jpg)
+
+
+Result of source.py:
+
+![tweets_by_sources](https://user-images.githubusercontent.com/19304394/28081667-d772ffde-6691-11e7-8edc-6f1e388ebc22.png)
